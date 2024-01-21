@@ -1,7 +1,6 @@
 # generative-ai
 Generating images from text using deep learning diffusion models
 
-:-----------------:|:---------------:
-![](image1.png)    | ![](image2.png) 
+![](out/image1.png)    | ![](out/image2.png) 
 :-----------------:|----------------:
-![](image3.png)    | ![](image4.png)
+![](out/image3.png)    | ![](out/image4.png)
