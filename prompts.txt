@@ -1,9 +1,6 @@
+a red ferrari, dslr, ultra quality, Fujifilm XT3, 8K UHD, highly detailed
 
-(raw photo, masterpiece, best quality, high detail), (8k, full frame, photorealistic, realistic, art deco style, streamline moderne style), ra 1970 Dodge Charger R/T gt with a city background
-
-((text:1.9)), ((title:1.9)), ((lettering:1.9)), ((cropped:1.9)), ((words:1.9)), 3d, (worst quality:1.9), (low quality:1.9), (normal quality:1.9), (bad-hands-5:1.9), lowres, out of focus, hazy, oversaturated, signature, (watermark:1.9), username, artist name, error, bad image, bad photo, ng_deepnegative_v1_75t
-
-(raw photo, masterpiece, best quality, high detail), (8k, full frame, photorealistic, realistic, art deco style, streamline moderne style), retro passenger train, smooth, aerodynamic
+a helicopter, dslr, ultra quality, sharp focus, tack sharp, dof, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed
 
 Negative prompt: ((text:1.9)), ((title:1.9)), ((lettering:1.9)), ((cropped:1.9)), ((words:1.9)), 3d, (worst quality:1.9), (low quality:1.9), (normal quality:1.9), (bad-hands-5:1.9), lowres, out of focus, hazy, oversaturated, signature, (watermark:1.9), username, artist name, error, bad image, bad photo, ng_deepnegative_v1_75t
 
