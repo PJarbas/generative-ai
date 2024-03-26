@@ -1,0 +1,26 @@
+name: genai
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8.10
+  - pip 
+  - numba
+  - wheel
+  - joblib
+  - pip:
+    - torch 
+    - torchvision 
+    - torchdata 
+    - torchtext
+    - diffusers 
+    - accelerate 
+    - transformers 
+    - ftfy 
+    - bitsandbytes==0.35.0 
+    - gradio 
+    - natsort 
+    - safetensors 
+    - xformers
+    - ipykernel
